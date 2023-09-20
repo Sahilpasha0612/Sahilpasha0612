@@ -2,7 +2,7 @@
 
  💫 About Me:
 <h2>Hi 👋 I'm Sahil Pasha MB. I'm a Computer Science student. I am interested in web development and Data Science</h2><br>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBjYnQzZmNqNG53ZHVzaWY2NWg4bTQ0MDk0d2w2ZTd5bXppdXZ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBjYnQzZmNqNG53ZHVzaWY2NWg4bTQ0MDk0d2w2ZTd5bXppdXZ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"><br>
 <br><p>•🌱 I’m currently learning Data Science</p><br><p>•💬 Ask me about Web Development</p><br><p>•📫 How to reach me sahilpasha2001@gmail.com</p><br><p>•⚡ Fun fact I don't like coding ;></p><br>
 <br> 
 
